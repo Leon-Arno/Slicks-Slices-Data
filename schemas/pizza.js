@@ -1,4 +1,3 @@
-import { string } from 'prop-types';
 import { MdLocalPizza as icon } from 'react-icons/md';
 
 export default {
